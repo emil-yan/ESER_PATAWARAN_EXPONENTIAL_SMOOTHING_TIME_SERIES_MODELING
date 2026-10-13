@@ -1,0 +1,2 @@
+# ESER_PATAWARAN_EXPONENTIAL_SMOOTHING_TIME_SERIES_MODELING
+Educational Purposes - Partner: Kyle Patawaran
